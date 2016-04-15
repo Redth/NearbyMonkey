@@ -2,7 +2,7 @@
 A sample app showing off the Nearby Messages API from Google
 
 
-![Nearby Monkey](/../master/Art/Screenshot?raw=true "Nearby Monkey")
+![Nearby Monkey](https://raw.githubusercontent.com/Redth/NearbyMonkey/master/Art/Screenshot.png "Nearby Monkey")
 
 
 
