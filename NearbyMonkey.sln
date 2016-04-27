@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearbyMonkey.Core", "Nearby
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearbyMonkey.Android", "NearbyMonkey.Android\NearbyMonkey.Android.csproj", "{BD7C76D7-9BA1-44D3-9661-DA4564E42764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearbyMonkey.iOS", "NearbyMonkey.iOS\NearbyMonkey.iOS.csproj", "{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,18 @@ Global
 		Debug|iPhone = Debug|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Release|Any CPU.Build.0 = Release|iPhone
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Release|iPhone.Build.0 = Release|iPhone
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1FE91424-B045-41EB-938B-FAFDD5C3B4B9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{85EA9421-B329-4304-8DDE-9EB29CE52CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{85EA9421-B329-4304-8DDE-9EB29CE52CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85EA9421-B329-4304-8DDE-9EB29CE52CB1}.Debug|iPhone.ActiveCfg = Debug|Any CPU
